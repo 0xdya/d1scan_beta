@@ -201,7 +201,7 @@ function testAudioFingerprint() {
 }
 // 🖥️ اختبار اختراق التبويبات (Reverse Tabnabbing)
 function testReverseTabnabbing() {
-    let newTab = window.open("hhttps://dyaa-edin.github.io/d1scan_beta/scan_page#test", "_blank");
+    let newTab = window.open("hhttps://0xdya.github.io/d1scan_beta/scan_page#test", "_blank");
     
     setTimeout(() => {
         if (newTab) {
